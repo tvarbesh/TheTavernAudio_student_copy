@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="DataFile" id="{6854c600-e99d-4d31-a864-9feec69d543a}">
+		<property name="assetPath">
+			<value>READY/FMOD/sounds/.cache/{6ceb7a23-a408-49a8-8adc-496e722b8482}.pdc</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{9d0c047f-294e-47ae-8ddf-86ca64e6b5ad}</destination>
+		</relationship>
+	</object>
+</objects>

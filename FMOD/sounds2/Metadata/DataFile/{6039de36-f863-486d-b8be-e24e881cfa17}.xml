@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="DataFile" id="{6039de36-f863-486d-b8be-e24e881cfa17}">
+		<property name="assetPath">
+			<value>READY/FMOD/sounds/.unsaved/Metadata/AudioFile/{a745919d-7d94-4c00-9b57-cefe5b6fc798}.xml</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{9d0c047f-294e-47ae-8ddf-86ca64e6b5ad}</destination>
+		</relationship>
+	</object>
+</objects>

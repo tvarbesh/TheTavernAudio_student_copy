@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="DataFile" id="{ce8b9c6f-be7d-4cd7-a7bf-9a74c0ee8d5d}">
+		<property name="assetPath">
+			<value>READY/Backups/ONESHOTS-2026-04-15_012544.rpp-bak</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{9d0c047f-294e-47ae-8ddf-86ca64e6b5ad}</destination>
+		</relationship>
+	</object>
+</objects>

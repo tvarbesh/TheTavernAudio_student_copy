@@ -1,0 +1,1674 @@
+<REAPER_PROJECT 0.1 "7.66/win64" 1776198906 0
+  <NOTES 0 2
+  >
+  RIPPLE 0 0
+  GROUPOVERRIDE 0 0 0 0
+  AUTOXFADE 129
+  ENVATTACH 3
+  POOLEDENVATTACH 0
+  TCPUIFLAGS 0
+  MIXERUIFLAGS 11 48
+  ENVFADESZ10 40
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 0
+  GRID 3455 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0 0 -1 0
+  VIDEO_CONFIG 0 0 65792
+  PANMODE 3
+  PANLAWFLAGS 3
+  CURSOR 10.1850077906528
+  ZOOM 80.01957551254492 0 0
+  VZOOMEX 6 0
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "Media" ""
+  <RECORD_CFG
+    ZXZhdxgAAQ==
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE ""
+  RENDER_PATTERN ""
+  RENDER_FMT 0 2 0
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0 0 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  RENDER_TRIM 0.000001 0.000001 0 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 1
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    ZXZhdxgAAQ==
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    BEATLEN 4
+    FREQ 1760 880 1
+    SAMPLES "" "" "" ""
+    SPLIGNORE 0 0
+    SPLDEF 2 660 "" 0 ""
+    SPLDEF 3 440 "" 0 ""
+    PATTERN 0 169
+    PATTERNSTR ABBB
+    MULT 1
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4 0
+  PLAYRATE 1 0 0.25 4
+  SELECTION 8.76284718201772 0
+  SELECTION2 8.76284718201772 0
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0 0 0 0 0 0 0 0 1
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_PANMODE 3
+  MASTER_PANLAWFLAGS 3
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    EGUID {67C5ECE0-D598-4405-9723-A18A4409786B}
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    EGUID {4B67C5BE-D2E0-4459-B452-F7A564F23E21}
+    ACT 0 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  RULERHEIGHT 86 86
+  RULERLANE 1 4 "" 0 -1
+  RULERLANE 2 8 "" 0 -1
+  <PROJBAY
+  >
+  <TRACK {72AAF1AB-3C6B-4A50-ABCF-D3A43AD23FD2}
+    NAME скрипы
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {72AAF1AB-3C6B-4A50-ABCF-D3A43AD23FD2}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 0.61380312058373
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8C09F8B2-0C69-4F86-A4BC-8788FF96C082}
+      IID 54
+      NAME skrip-pola-zvuk_002.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0.45227598358801
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9B0D678D-5E83-450A-9BEB-198574A7450D}
+      <SOURCE MP3
+        FILE "E:\звуки сдв\ВАНШОТЫ\CDV audio 8.04.2026\footsteps\skrip-pola-zvuk_002.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 0.89232832129012
+      SNAPOFFS 0
+      LENGTH 0.63803219113309
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9D04222E-8935-487C-A9EF-FF1BBEB901CE}
+      IID 54
+      NAME skrip-pola-zvuk_002.mp3
+      VOLPAN 0.568853 0 1 -1
+      SOFFS 2.11600549464391
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0C69A278-9637-4113-BDFA-9F290C13D7B8}
+      <SOURCE MP3
+        FILE "E:\звуки сдв\ВАНШОТЫ\CDV audio 8.04.2026\footsteps\skrip-pola-zvuk_002.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 1.99330566679898
+      SNAPOFFS 0
+      LENGTH 0.67841397538202
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8A4B54AA-5C89-430C-A1CC-12D19A004920}
+      IID 54
+      NAME skrip-pola-zvuk_002.mp3
+      VOLPAN 0.524807 0 1 -1
+      SOFFS 3.41629894745944
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C73E4417-735C-46D9-A2DE-B44F2EB7567E}
+      <SOURCE MP3
+        FILE "E:\звуки сдв\ВАНШОТЫ\CDV audio 8.04.2026\footsteps\skrip-pola-zvuk_002.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 3.09104750119934
+      SNAPOFFS 0
+      LENGTH 0.48458141098715
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E4150171-259D-4679-83DA-41626666B92F}
+      IID 53
+      NAME skrip-pola-zvuk_001.mp3
+      VOLPAN 0.501187 0 1 -1
+      SOFFS 0.58957405003437
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6BCB0008-3167-40E6-A4D0-F7D1E417B592}
+      <SOURCE MP3
+        FILE "E:\звуки сдв\ВАНШОТЫ\CDV audio 8.04.2026\footsteps\skrip-pola-zvuk_001.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 4.1125608657989
+      SNAPOFFS 0
+      LENGTH 0.65418490483267
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {77E78A92-3A62-44CD-A42E-953AD5621ACE}
+      IID 53
+      NAME skrip-pola-zvuk_001.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 1.5506605151589
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6027F22E-D44D-4BF9-98BB-C7CF4BFF433B}
+      <SOURCE MP3
+        FILE "E:\звуки сдв\ВАНШОТЫ\CDV audio 8.04.2026\footsteps\skrip-pola-zvuk_001.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 5.03006795214984
+      SNAPOFFS 0
+      LENGTH 0.77533025757945
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5DEDBE33-A319-4600-A2BA-C045F5BA272A}
+      IID 53
+      NAME skrip-pola-zvuk_001.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 2.91556482277272
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2182C67B-6C54-4AFD-AD8E-649C1E106E79}
+      <SOURCE MP3
+        FILE "E:\звуки сдв\ВАНШОТЫ\CDV audio 8.04.2026\footsteps\skrip-pola-zvuk_001.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 5.90735008982901
+      SNAPOFFS 0
+      LENGTH 0.74302483018031
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {261C04CE-BF29-4795-B6CF-E7A4B75384E3}
+      IID 53
+      NAME skrip-pola-zvuk_001.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 3.85242221734788
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8A700036-EA26-491D-9582-13700CE70A42}
+      <SOURCE MP3
+        FILE "E:\звуки сдв\ВАНШОТЫ\CDV audio 8.04.2026\footsteps\skrip-pola-zvuk_001.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 6.92231117552728
+      SNAPOFFS 0
+      LENGTH 1.05502036820776
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {22CC189F-FFC0-4918-95C4-5E2C5E9620AC}
+      IID 53
+      NAME skrip-pola-zvuk_001.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 5.24155559551106
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D26D117D-FD89-464A-977E-E85A49C90072}
+      <SOURCE MP3
+        FILE "E:\звуки сдв\ВАНШОТЫ\CDV audio 8.04.2026\footsteps\skrip-pola-zvuk_001.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 8.07485448451913
+      SNAPOFFS 0
+      LENGTH 0.35238095238096
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F4D1C13B-2F34-4B2E-A982-953F090C1089}
+      IID 49
+      NAME 09797ccce9abfc3.mp3
+      VOLPAN 0.375837 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {43A72B91-3D09-4AFF-B18F-CC327E01040E}
+      <SOURCE MP3
+        FILE "E:\звуки сдв\ВАНШОТЫ\CDV audio 8.04.2026\footsteps\09797ccce9abfc3.mp3" 1
+      >
+    >
+  >
+  <TRACK {B3035707-E7DB-4695-AF77-39948582387D}
+    NAME "по дереву"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 2.15306599269332 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {B3035707-E7DB-4695-AF77-39948582387D}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0.00544186099214
+      SNAPOFFS 0
+      LENGTH 0.3664186401371
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8AE65692-43DD-4C76-B536-162288C0D573}
+      IID 52
+      NAME shagi_po_derevu.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0.16325582976405
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3BF0638B-A14D-44FC-AD49-5D72A4DD622A}
+      <SOURCE MP3
+        FILE "E:\звуки сдв\ВАНШОТЫ\CDV audio 8.04.2026\footsteps\shagi_po_derevu.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 0.95983737550255
+      SNAPOFFS 0
+      LENGTH 0.34465119616856
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CDA59B31-CE29-4572-9A41-CB722122E8A2}
+      IID 52
+      NAME shagi_po_derevu.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0.77455821454723
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {790B21B8-1098-4CB6-9642-065310A84828}
+      <SOURCE MP3
+        FILE "E:\звуки сдв\ВАНШОТЫ\CDV audio 8.04.2026\footsteps\shagi_po_derevu.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 2.06200193162987
+      SNAPOFFS 0
+      LENGTH 0.36279073280901
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A93E5E14-57C0-49FA-9873-E25801F5B8A3}
+      IID 52
+      NAME shagi_po_derevu.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 1.39130246032255
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {64AAB98F-C2CD-4E75-96A7-0567C438A50F}
+      <SOURCE MP3
+        FILE "E:\звуки сдв\ВАНШОТЫ\CDV audio 8.04.2026\footsteps\shagi_po_derevu.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 3.13520761534366
+      SNAPOFFS 0
+      LENGTH 0.37186050112924
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CE34EC2D-80C4-4A25-A57E-5A946D1F167A}
+      IID 52
+      NAME shagi_po_derevu.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 1.99897693777764
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BE4305C5-5C85-4B37-9CA3-7684F1F89FDD}
+      <SOURCE MP3
+        FILE "E:\звуки сдв\ВАНШОТЫ\CDV audio 8.04.2026\footsteps\shagi_po_derevu.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 4.14812084491622
+      SNAPOFFS 0
+      LENGTH 0.43988376353093
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DDDDB847-F3DA-4107-8376-02948D057373}
+      IID 52
+      NAME shagi_po_derevu.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 2.61118629939284
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {12962D39-DDBA-4399-A0B3-1C36A78F62C3}
+      <SOURCE MP3
+        FILE "E:\звуки сдв\ВАНШОТЫ\CDV audio 8.04.2026\footsteps\shagi_po_derevu.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 5.08868312951932
+      SNAPOFFS 0
+      LENGTH 0.42627911105059
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {80269882-2CF3-45DD-8FDB-09E402A77A7C}
+      IID 52
+      NAME shagi_po_derevu.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 3.17804681940692
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B455B018-B5EC-4714-9EE2-65F9440FC568}
+      <SOURCE MP3
+        FILE "E:\звуки сдв\ВАНШОТЫ\CDV audio 8.04.2026\footsteps\shagi_po_derevu.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 5.99306994163769
+      SNAPOFFS 0
+      LENGTH 0.46255818433149
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DD8B42DE-7B52-4300-9EB3-5D37C5DCCDE9}
+      IID 52
+      NAME shagi_po_derevu.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 3.78572129686201
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {47CB96F7-698F-4DC6-97A3-157F807AABF6}
+      <SOURCE MP3
+        FILE "E:\звуки сдв\ВАНШОТЫ\CDV audio 8.04.2026\footsteps\shagi_po_derevu.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 7.09039260700797
+      SNAPOFFS 0
+      LENGTH 0.47616283681182
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FAF0AF26-073F-499C-9E90-5619542D6016}
+      IID 52
+      NAME shagi_po_derevu.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 4.3933957743171
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {13540F14-19DA-4AD0-B622-336EA046499A}
+      <SOURCE MP3
+        FILE "E:\звуки сдв\ВАНШОТЫ\CDV audio 8.04.2026\footsteps\shagi_po_derevu.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 8.04663155633893
+      SNAPOFFS 0
+      LENGTH 0.42174422689049
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8734F6C5-B8EA-4385-8226-8638F02CF773}
+      IID 52
+      NAME shagi_po_derevu.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 5.01014002009242
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D64CD1EF-5361-4228-8B36-8A8D5ACCFCC1}
+      <SOURCE MP3
+        FILE "E:\звуки сдв\ВАНШОТЫ\CDV audio 8.04.2026\footsteps\shagi_po_derevu.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 47.79861616353953
+      SNAPOFFS 0
+      LENGTH 33.1635760512216
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {28C05C62-E327-447E-8333-59F14EC286F8}
+      IID 52
+      NAME shagi_po_derevu.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 64.53544889208914
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5DF5E3C7-643D-41F9-A9B9-8ED84624486B}
+      <SOURCE MP3
+        FILE "E:\звуки сдв\ВАНШОТЫ\CDV audio 8.04.2026\footsteps\shagi_po_derevu.mp3" 1
+      >
+    >
+  >
+  <TRACK {F0B651E6-757A-4150-A866-66009103164D}
+    NAME "по дереву бег"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 0.97780055932399 0 -1 -1 1
+    MUTESOLO 0 2 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 1
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {F0B651E6-757A-4150-A866-66009103164D}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 696 195 734 521
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST: ReaPitch (Cockos)" reapitch.dll 0 "" 1919250531<56535472657063726561706974636800> ""
+        Y3Blcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAATAAAAAEAAAAAABAA
+        AAAAAP////8BAAAALAAAAAIAAAAAAAAAAAAAANFCRj8AAAAAAACAPwAAAD8AAAA/AAAAPwAAAD8AAAA/AAAAPwAAAD+BH5c+AAAAPw==
+        AAAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {68921FC2-FB68-467E-B065-90C1A36AEBD2}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 0.20702328155709
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E1B6FA9F-0062-484D-B9F3-19AF36984C61}
+      IID 92
+      NAME shagi_po_betonu.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 100.54008178553066
+      PLAYRATE 1 1 -20 -1 0 0.0025
+      CHANMODE 0
+      GUID {776A08B9-4D84-4912-9C3A-22EA22BA40CD}
+      <SOURCE MP3
+        FILE "E:\звуки сдв\ВАНШОТЫ\CDV audio 8.04.2026\footsteps\shagi_po_betonu.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 0.95638924437643
+      SNAPOFFS 0
+      LENGTH 0.24201313196111
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D9E10D95-8874-4C1B-BAA1-0B2A79B3D9C7}
+      IID 92
+      NAME shagi_po_betonu.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 100.82291640962983
+      PLAYRATE 1 1 -20 -1 0 0.0025
+      CHANMODE 0
+      GUID {C00307E3-899C-4B98-B7DA-11244748281B}
+      <SOURCE MP3
+        FILE "E:\звуки сдв\ВАНШОТЫ\CDV audio 8.04.2026\footsteps\shagi_po_betonu.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 2.07023281557093
+      SNAPOFFS 0
+      LENGTH 0.2216023858921
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5F464A6E-823E-4848-A019-3FB212D65256}
+      IID 92
+      NAME shagi_po_betonu.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 101.07076118332495
+      PLAYRATE 1 1 -20 -1 0 0.0025
+      CHANMODE 0
+      GUID {C7404DC1-0912-4E34-9716-B1A7F031843D}
+      <SOURCE MP3
+        FILE "E:\звуки сдв\ВАНШОТЫ\CDV audio 8.04.2026\footsteps\shagi_po_betonu.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 3.15773988804216
+      SNAPOFFS 0
+      LENGTH 0.22543113021953
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8D4F7D2E-B449-400D-ACAF-35D65BF9F12D}
+      IID 92
+      NAME shagi_po_betonu.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 101.31769303355964
+      PLAYRATE 1 1 -20 -1 0 0.0025
+      CHANMODE 0
+      GUID {679B6474-8A3B-4257-9E6D-BAA7710958EE}
+      <SOURCE MP3
+        FILE "E:\звуки сдв\ВАНШОТЫ\CDV audio 8.04.2026\footsteps\shagi_po_betonu.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 4.17091846174552
+      SNAPOFFS 0
+      LENGTH 0.29551041733015
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0324B375-1399-4D1C-B46B-8E77AE3B29EA}
+      IID 92
+      NAME shagi_po_betonu.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 101.56645073071518
+      PLAYRATE 1 1 -20 -1 0 0.0025
+      CHANMODE 0
+      GUID {A7F25382-BD61-4A63-AC07-5EB1359D0E32}
+      <SOURCE MP3
+        FILE "E:\звуки сдв\ВАНШОТЫ\CDV audio 8.04.2026\footsteps\shagi_po_betonu.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 5.09122233285941
+      SNAPOFFS 0
+      LENGTH 0.27018095298756
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DA1393FE-B8B5-4543-A189-BF7873130653}
+      IID 92
+      NAME shagi_po_betonu.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 101.86196114804532
+      PLAYRATE 1 1 -20 -1 0 0.0025
+      CHANMODE 0
+      GUID {68880CBB-0584-47C2-82C3-AF80429081C0}
+      <SOURCE MP3
+        FILE "E:\звуки сдв\ВАНШОТЫ\CDV audio 8.04.2026\footsteps\shagi_po_betonu.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 6.02841251353503
+      SNAPOFFS 0
+      LENGTH 0.29551041733015
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A50AD62E-48A9-4140-9CC2-E0A70D255DCF}
+      IID 92
+      NAME shagi_po_betonu.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 102.10988338592358
+      PLAYRATE 1 1 -20 -1 0 0.0025
+      CHANMODE 0
+      GUID {B3B34B8F-8A4C-4C40-9F22-7BBF8855DDB2}
+      <SOURCE MP3
+        FILE "E:\звуки сдв\ВАНШОТЫ\CDV audio 8.04.2026\footsteps\shagi_po_betonu.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 7.04159108723839
+      SNAPOFFS 0
+      LENGTH 0.27862410776843
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6267636E-DFD1-4084-8B0D-89A43A89C123}
+      IID 92
+      NAME shagi_po_betonu.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 102.39695064847287
+      PLAYRATE 1 1 -20 -1 0 0.0025
+      CHANMODE 0
+      GUID {47EAD1BA-9168-4288-AA93-9DEE8A803903}
+      <SOURCE MP3
+        FILE "E:\звуки сдв\ВАНШОТЫ\CDV audio 8.04.2026\footsteps\shagi_po_betonu.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 8.0463265061609
+      SNAPOFFS 0
+      LENGTH 0.29551041733015
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AFAF998B-4EA0-4DE5-9071-3A043E23056A}
+      IID 92
+      NAME shagi_po_betonu.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 102.67557475624129
+      PLAYRATE 1 1 -20 -1 0 0.0025
+      CHANMODE 0
+      GUID {6C572A19-D6C0-445C-8CF0-AE9384E592C0}
+      <SOURCE MP3
+        FILE "E:\звуки сдв\ВАНШОТЫ\CDV audio 8.04.2026\footsteps\shagi_po_betonu.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 10.2753193683083
+      SNAPOFFS 0
+      LENGTH 29.27765241227813
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9DF6ACB8-7184-4994-81A5-B20771E91BF0}
+      IID 92
+      NAME shagi_po_betonu.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 102.97108517357144
+      PLAYRATE 1 1 -20 -1 0 0.0025
+      CHANMODE 0
+      GUID {89D734D9-979D-4824-9B29-5862C72F5D99}
+      <SOURCE MP3
+        FILE "E:\звуки сдв\ВАНШОТЫ\CDV audio 8.04.2026\footsteps\shagi_po_betonu.mp3" 1
+      >
+    >
+  >
+  <TRACK {72A47B3D-67FA-4455-97E1-675DD1068D03}
+    NAME "по камню ходьба"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1.54096138720483 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {72A47B3D-67FA-4455-97E1-675DD1068D03}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0.00807635684979
+      SNAPOFFS 0
+      LENGTH 0.64610854798287
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5C9758BA-0335-4873-BFA7-ACE689399B24}
+      IID 51
+      NAME shagi_po_betonu.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0.13729806644636
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7D1834C9-D85D-4DC0-B2B4-2BFB31099EC8}
+      <SOURCE MP3
+        FILE "E:\звуки сдв\ВАНШОТЫ\CDV audio 8.04.2026\footsteps\shagi_po_betonu.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 0.96108646512452
+      SNAPOFFS 0
+      LENGTH 0.65418490483266
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {98274327-84C5-4647-9BCA-887141FF228A}
+      IID 51
+      NAME shagi_po_betonu.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0.9772391788241
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6DA7CA7D-7A9F-41E4-97D4-A904DE5D703A}
+      <SOURCE MP3
+        FILE "E:\звуки сдв\ВАНШОТЫ\CDV audio 8.04.2026\footsteps\shagi_po_betonu.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 2.07562371039498
+      SNAPOFFS 0
+      LENGTH 0.66226126168245
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {252B14D5-BDE9-4BD0-B0C7-B8786BC49F91}
+      IID 51
+      NAME shagi_po_betonu.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 1.76872215010312
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C6D1DAF8-5E15-4FEA-BD65-8750C95EC4CF}
+      <SOURCE MP3
+        FILE "E:\звуки сдв\ВАНШОТЫ\CDV audio 8.04.2026\footsteps\shagi_po_betonu.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 3.12555010086715
+      SNAPOFFS 0
+      LENGTH 0.63803219113309
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DB8390E9-7D50-408A-B526-25D307832E51}
+      IID 51
+      NAME shagi_po_betonu.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 2.51982333713321
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5FC0197F-C822-4468-A113-A4EAB669E2AD}
+      <SOURCE MP3
+        FILE "E:\звуки сдв\ВАНШОТЫ\CDV audio 8.04.2026\footsteps\shagi_po_betonu.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 4.15932377763975
+      SNAPOFFS 0
+      LENGTH 0.60572676373395
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CFBDD052-2910-4DFD-8630-6C60BAACEA82}
+      IID 51
+      NAME shagi_po_betonu.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 7.95521149703913
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6ABB6C8D-9152-47B3-B108-692FDC72EEFA}
+      <SOURCE MP3
+        FILE "E:\звуки сдв\ВАНШОТЫ\CDV audio 8.04.2026\footsteps\shagi_po_betonu.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 5.08002845851536
+      SNAPOFFS 0
+      LENGTH 0.61380312058374
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FC082A0C-1861-4792-ABAF-9F6746F74374}
+      IID 51
+      NAME shagi_po_betonu.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 8.74669446831815
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {489F8CE6-2426-48A4-B7EF-C273FCBFACEE}
+      <SOURCE MP3
+        FILE "E:\звуки сдв\ВАНШОТЫ\CDV audio 8.04.2026\footsteps\shagi_po_betonu.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 6.01688585309052
+      SNAPOFFS 0
+      LENGTH 0.55726862263523
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {588A799F-3DB8-4410-90FD-6FA83C532BC0}
+      IID 51
+      NAME shagi_po_betonu.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 4.8781195372707
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {593CCE09-75DD-495E-90D9-F4264B67E79A}
+      <SOURCE MP3
+        FILE "E:\звуки сдв\ВАНШОТЫ\CDV audio 8.04.2026\footsteps\shagi_po_betonu.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 7.02643045931376
+      SNAPOFFS 0
+      LENGTH 0.63803219113308
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AFB07052-049B-4954-BBFF-E343AE0629F6}
+      IID 51
+      NAME shagi_po_betonu.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 6.38839826818066
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C43B1806-7492-4C4A-AB16-2E043D84D4F3}
+      <SOURCE MP3
+        FILE "E:\звуки сдв\ВАНШОТЫ\CDV audio 8.04.2026\footsteps\shagi_po_betonu.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 8.03597506553699
+      SNAPOFFS 0
+      LENGTH 0.66226126168244
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6F61398E-9D8F-404E-84DF-1FEE44D0C030}
+      IID 51
+      NAME shagi_po_betonu.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 7.16372852576011
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {31764297-1187-48E7-A553-CF3A18739869}
+      <SOURCE MP3
+        FILE "E:\звуки сдв\ВАНШОТЫ\CDV audio 8.04.2026\footsteps\shagi_po_betonu.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 10.28120226977747
+      SNAPOFFS 0
+      LENGTH 156.90995592583729
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4A165ECB-57C1-42EE-822B-A2DC2A8432EE}
+      IID 51
+      NAME shagi_po_betonu.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 9.36049758890188
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F827AB92-BA19-4E0B-9CA5-678C0FA6B633}
+      <SOURCE MP3
+        FILE "E:\звуки сдв\ВАНШОТЫ\CDV audio 8.04.2026\footsteps\shagi_po_betonu.mp3" 1
+      >
+    >
+  >
+  <TRACK {9A305341-500A-421E-8864-93DE7858E885}
+    NAME "по камню бег"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 0.97780055932399 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {9A305341-500A-421E-8864-93DE7858E885}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 0.20702328155709
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {214F4983-7710-4709-9398-74EE9E1C8FE0}
+      IID 92
+      NAME shagi_po_betonu.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 100.54008178553066
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C177BD3E-EB05-4E36-BAF3-D176531DA5F0}
+      <SOURCE MP3
+        FILE "E:\звуки сдв\ВАНШОТЫ\CDV audio 8.04.2026\footsteps\shagi_po_betonu.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 0.95638924437643
+      SNAPOFFS 0
+      LENGTH 0.24201313196111
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7FED5D9A-97C6-49DD-8C62-D8C914AD5B20}
+      IID 92
+      NAME shagi_po_betonu.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 100.82291640962983
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4FB0670F-64BF-435E-944A-1284BAEBF005}
+      <SOURCE MP3
+        FILE "E:\звуки сдв\ВАНШОТЫ\CDV audio 8.04.2026\footsteps\shagi_po_betonu.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 2.07023281557093
+      SNAPOFFS 0
+      LENGTH 0.2216023858921
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8D3444A1-40A9-4BB9-8CA3-6B0429E52928}
+      IID 92
+      NAME shagi_po_betonu.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 101.07076118332495
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {64CE9FD9-0703-4341-9266-CA1BC33F09E8}
+      <SOURCE MP3
+        FILE "E:\звуки сдв\ВАНШОТЫ\CDV audio 8.04.2026\footsteps\shagi_po_betonu.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 3.15773988804216
+      SNAPOFFS 0
+      LENGTH 0.22543113021953
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1F9BE5E5-4EF3-40F2-9847-F9D0195FD79B}
+      IID 92
+      NAME shagi_po_betonu.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 101.31769303355964
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2AD143E4-54A1-42C2-A137-15A423EF6740}
+      <SOURCE MP3
+        FILE "E:\звуки сдв\ВАНШОТЫ\CDV audio 8.04.2026\footsteps\shagi_po_betonu.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 4.17091846174552
+      SNAPOFFS 0
+      LENGTH 0.29551041733015
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A26EE430-315B-4B10-AF5B-67F971B6A387}
+      IID 92
+      NAME shagi_po_betonu.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 101.56645073071518
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CF7CB1DA-33D0-43E4-B976-4660A5216F4F}
+      <SOURCE MP3
+        FILE "E:\звуки сдв\ВАНШОТЫ\CDV audio 8.04.2026\footsteps\shagi_po_betonu.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 5.09122233285941
+      SNAPOFFS 0
+      LENGTH 0.27018095298756
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6690B6BF-75EF-4B21-A8EF-374524E8832D}
+      IID 92
+      NAME shagi_po_betonu.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 101.86196114804532
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A60A4EA7-2E06-42BD-9B3C-9CB48A740460}
+      <SOURCE MP3
+        FILE "E:\звуки сдв\ВАНШОТЫ\CDV audio 8.04.2026\footsteps\shagi_po_betonu.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 6.02841251353503
+      SNAPOFFS 0
+      LENGTH 0.29551041733015
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E3DB0F13-A35D-431D-BB50-24A78BB843E7}
+      IID 92
+      NAME shagi_po_betonu.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 102.10988338592358
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6096B77E-7F5E-4563-8775-F4E2973EAF5E}
+      <SOURCE MP3
+        FILE "E:\звуки сдв\ВАНШОТЫ\CDV audio 8.04.2026\footsteps\shagi_po_betonu.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 7.04159108723839
+      SNAPOFFS 0
+      LENGTH 0.27862410776843
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {10364611-D401-46D0-BB06-13E2E464C10B}
+      IID 92
+      NAME shagi_po_betonu.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 102.39695064847287
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8206B01E-43B3-44B7-978A-BAECE49BD0CE}
+      <SOURCE MP3
+        FILE "E:\звуки сдв\ВАНШОТЫ\CDV audio 8.04.2026\footsteps\shagi_po_betonu.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 8.0463265061609
+      SNAPOFFS 0
+      LENGTH 0.29551041733015
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EFAA17C2-7427-411A-AEC0-D5E46EC7C19B}
+      IID 92
+      NAME shagi_po_betonu.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 102.67557475624129
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FEB8E8DA-45F1-4745-9E0B-E5BCEC661D82}
+      <SOURCE MP3
+        FILE "E:\звуки сдв\ВАНШОТЫ\CDV audio 8.04.2026\footsteps\shagi_po_betonu.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 10.2753193683083
+      SNAPOFFS 0
+      LENGTH 29.27765241227813
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0D552650-4259-418E-84BE-688E5B9AED17}
+      IID 92
+      NAME shagi_po_betonu.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 102.97108517357144
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D1ED06B5-9EA3-4F66-A239-4F5E86B0A418}
+      <SOURCE MP3
+        FILE "E:\звуки сдв\ВАНШОТЫ\CDV audio 8.04.2026\footsteps\shagi_po_betonu.mp3" 1
+      >
+    >
+  >
+  <TRACK {A047CBDC-6F5C-441B-877C-261E6ADC7550}
+    NAME лестница
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {A047CBDC-6F5C-441B-877C-261E6ADC7550}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 0.47281666772824
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B4CED1F2-1216-4230-9760-A56031FBFF99}
+      IID 57
+      NAME Быстрые_шаги_по_деревянной_поверхности.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0267727D-0033-44B8-BB9E-2FFBC592F2E3}
+      <SOURCE MP3
+        FILE "E:\звуки сдв\ВАНШОТЫ\CDV audio 8.04.2026\footsteps\Быстрые_шаги_по_деревянной_поверхности.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 0.9625196450182
+      SNAPOFFS 0
+      LENGTH 0.58257767987944
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {57A1F00D-656E-4B9F-8593-F59F14CBA37D}
+      IID 57
+      NAME Быстрые_шаги_по_деревянной_поверхности.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0.47281666772824
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3AD55E9D-E48D-4882-884F-B6A89ED6D9D2}
+      <SOURCE MP3
+        FILE "E:\звуки сдв\ВАНШОТЫ\CDV audio 8.04.2026\footsteps\Быстрые_шаги_по_деревянной_поверхности.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 2.0770160760919
+      SNAPOFFS 0
+      LENGTH 0.50658928685168
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {27ECFA05-BA89-4148-8E09-DE50BF9A713D}
+      IID 57
+      NAME Быстрые_шаги_по_деревянной_поверхности.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 1.05539434760767
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2B796B7B-C8F1-4B24-9062-65B2A344F36A}
+      <SOURCE MP3
+        FILE "E:\звуки сдв\ВАНШОТЫ\CDV audio 8.04.2026\footsteps\Быстрые_шаги_по_деревянной_поверхности.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 3.15773988804216
+      SNAPOFFS 0
+      LENGTH 0.47281666772824
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {87B9F9B7-2063-45B2-951D-2F009A0B1B5E}
+      IID 57
+      NAME Быстрые_шаги_по_деревянной_поверхности.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 1.56198363445936
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EEA0A17D-28E8-430B-94E0-AB3DFA907F12}
+      <SOURCE MP3
+        FILE "E:\звуки сдв\ВАНШОТЫ\CDV audio 8.04.2026\footsteps\Быстрые_шаги_по_деревянной_поверхности.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 4.09493006871777
+      SNAPOFFS 0
+      LENGTH 0.60790714422203
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4C64576D-558A-4615-AF2C-503EDEC90330}
+      IID 57
+      NAME Быстрые_шаги_по_деревянной_поверхности.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 2.03480030218759
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0F26BBF7-5D7E-45E7-AC16-F5AC922FC775}
+      <SOURCE MP3
+        FILE "E:\звуки сдв\ВАНШОТЫ\CDV audio 8.04.2026\footsteps\Быстрые_шаги_по_деревянной_поверхности.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 5.09122233285941
+      SNAPOFFS 0
+      LENGTH 0.57413452509858
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2B5AF368-8E8B-4048-B37C-C665D16C2D08}
+      IID 57
+      NAME Быстрые_шаги_по_деревянной_поверхности.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 2.64270744640961
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B6A48436-F612-4D31-BCAE-342B42A035C8}
+      <SOURCE MP3
+        FILE "E:\звуки сдв\ВАНШОТЫ\CDV audio 8.04.2026\footsteps\Быстрые_шаги_по_деревянной_поверхности.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 6.02841251353503
+      SNAPOFFS 0
+      LENGTH 0.54036190597513
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {75F0714A-3C77-4362-BCD0-5502A6E70539}
+      IID 57
+      NAME Быстрые_шаги_по_деревянной_поверхности.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 3.21684197150819
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C296DFD9-E891-4395-B469-AB9BB44565AC}
+      <SOURCE MP3
+        FILE "E:\звуки сдв\ВАНШОТЫ\CDV audio 8.04.2026\footsteps\Быстрые_шаги_по_деревянной_поверхности.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 7.04159108723839
+      SNAPOFFS 0
+      LENGTH 0.4812598225091
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A56477C9-642B-4237-B402-0E6DE61E43F0}
+      IID 57
+      NAME Быстрые_шаги_по_деревянной_поверхности.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 3.75720387748332
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2B0927D3-CF82-4FFA-B79C-8B0D4C0DFE0B}
+      <SOURCE MP3
+        FILE "E:\звуки сдв\ВАНШОТЫ\CDV audio 8.04.2026\footsteps\Быстрые_шаги_по_деревянной_поверхности.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 7.96189495835228
+      SNAPOFFS 0
+      LENGTH 0.61635029900288
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FB343689-965D-4DE5-85F6-F785727A993B}
+      IID 57
+      NAME Быстрые_шаги_по_деревянной_поверхности.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 4.23846369999241
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5E22C2D6-7CFF-4855-88C2-01D90CDBDAC7}
+      <SOURCE MP3
+        FILE "E:\звуки сдв\ВАНШОТЫ\CDV audio 8.04.2026\footsteps\Быстрые_шаги_по_деревянной_поверхности.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 10.28376252308916
+      SNAPOFFS 0
+      LENGTH 2.56502727084598
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BED001BE-0BF5-4076-9AEF-FD322E69CC55}
+      IID 57
+      NAME Быстрые_шаги_по_деревянной_поверхности.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 4.85481399899529
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A0947E95-AFF5-4FD5-BD84-78AA36098B17}
+      <SOURCE MP3
+        FILE "E:\звуки сдв\ВАНШОТЫ\CDV audio 8.04.2026\footsteps\Быстрые_шаги_по_деревянной_поверхности.mp3" 1
+      >
+    >
+  >
+  <TRACK {6CDF47C7-36BA-4A77-8B40-ED14332C4CD4}
+    NAME "норм по дереву"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {6CDF47C7-36BA-4A77-8B40-ED14332C4CD4}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 4.31126984126984
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C9AEC1F5-1069-4BCB-BB24-D9E70DC3BE8A}
+      IID 50
+      NAME dragon-studio-footsteps-on-wood-397989.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2259E861-2D03-400D-9912-D101E7875AD9}
+      <SOURCE MP3
+        FILE "E:\звуки сдв\ВАНШОТЫ\CDV audio 8.04.2026\footsteps\dragon-studio-footsteps-on-wood-397989.mp3" 1
+      >
+    >
+  >
+  <TRACK {924D9FD7-09C1-4DA5-BA54-270B49C3FC93}
+    NAME "Шаги по деревянному полу (мужчина и женщина)"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {924D9FD7-09C1-4DA5-BA54-270B49C3FC93}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 34.11698412698413
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C0D13338-4130-4886-891A-C9FBBBA107F9}
+      IID 58
+      NAME "Шаги по деревянному полу (мужчина и женщина).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6F3850BB-050E-4430-B3F7-C44342308B7B}
+      <SOURCE MP3
+        FILE "E:\звуки сдв\ВАНШОТЫ\CDV audio 8.04.2026\footsteps\Шаги по деревянному полу (мужчина и женщина).mp3" 1
+      >
+    >
+  >
+>

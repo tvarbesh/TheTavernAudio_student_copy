@@ -1,0 +1,584 @@
+<REAPER_PROJECT 0.1 "7.66/win64" 1774339575 0
+  <NOTES 0 2
+  >
+  RIPPLE 0 0
+  GROUPOVERRIDE 0 0 0 0
+  AUTOXFADE 129
+  ENVATTACH 3
+  POOLEDENVATTACH 0
+  TCPUIFLAGS 0
+  MIXERUIFLAGS 11 48
+  ENVFADESZ10 40
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 0
+  GRID 3199 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0 0 -1 0
+  VIDEO_CONFIG 0 0 65792
+  PANMODE 3
+  PANLAWFLAGS 3
+  CURSOR 138.69297523598308
+  ZOOM 15.30719199287319 0 0
+  VZOOMEX 6 0
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "Media" ""
+  <RECORD_CFG
+    ZXZhdxgAAQ==
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE ""
+  RENDER_PATTERN ""
+  RENDER_FMT 0 2 0
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0 0 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  RENDER_TRIM 0.000001 0.000001 0 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 1
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    ZXZhdxgAAQ==
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    BEATLEN 4
+    FREQ 1760 880 1
+    SAMPLES "" "" "" ""
+    SPLIGNORE 0 0
+    SPLDEF 2 660 "" 0 ""
+    SPLDEF 3 440 "" 0 ""
+    PATTERN 0 169
+    PATTERNSTR ABBB
+    MULT 1
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4 0
+  PLAYRATE 1 0 0.25 4
+  SELECTION 143 0
+  SELECTION2 143 0
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0 0 0 0 0 0 0 0 1
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_PANMODE 3
+  MASTER_PANLAWFLAGS 3
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    EGUID {67C5ECE0-D598-4405-9723-A18A4409786B}
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    EGUID {4B67C5BE-D2E0-4459-B452-F7A564F23E21}
+    ACT 1 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  RULERHEIGHT 86 86
+  RULERLANE 1 4 "" 0 -1
+  RULERLANE 2 8 "" 0 -1
+  <PROJBAY
+  >
+  <TRACK {10ABD53E-ACA9-4DF3-BAC1-45797AD3AC6D}
+    NAME "пустой бар"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 0.46415452868198 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 1
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {10ABD53E-ACA9-4DF3-BAC1-45797AD3AC6D}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 74.37653061224489
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0 3.37653061224489 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2FBBCDD6-FC8D-4AD7-916F-84E229ECCDB4}
+      IID 2
+      NAME "пустой бар.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8C7E314C-8FC6-4205-A9E6-DED84150642C}
+      <SOURCE MP3
+        FILE "E:\звуки сдв\ТАВЕРНА\пустой бар.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 71
+      SNAPOFFS 0
+      LENGTH 72
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 3.37653061224489 1 1 0 0
+      FADEOUT 1 2.21650417638079 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {03ACAA6E-3EE0-4CFD-AE87-C08E033E9CA9}
+      IID 3
+      NAME "пустой бар.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 73.37653061224489
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F898D658-2CCB-4F52-804C-2593C08D0562}
+      <SOURCE MP3
+        FILE "E:\звуки сдв\ТАВЕРНА\пустой бар.mp3" 1
+      >
+    >
+  >
+  <TRACK {0D0769B9-83D6-4BFA-A4DF-14F93A44B6E8}
+    NAME "разговоры людей без гула"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 0.70462939198009 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {0D0769B9-83D6-4BFA-A4DF-14F93A44B6E8}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 64.01741496598639
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0 6.01741496598639 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {19F7A64A-5C4B-4055-B8F1-D5D000800244}
+      IID 6
+      NAME "разговоры людей без гула.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {479A1E99-AC07-43EA-94E7-2130BAE1DC25}
+      <SOURCE MP3
+        FILE "E:\звуки сдв\ТАВЕРНА\разговоры людей без гула.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 58
+      SNAPOFFS 0
+      LENGTH 50.01741496598639
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 6.01741496598639 1 1 0 0
+      FADEOUT 1.1 0 25.01741496598639 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2855153F-72F8-47F1-9C08-CB0ED480353B}
+      IID 7
+      NAME "разговоры людей без гула.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 14
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C9382BA2-5919-424F-836F-F4C69A7126FA}
+      <SOURCE MP3
+        FILE "E:\звуки сдв\ТАВЕРНА\разговоры людей без гула.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 83
+      SNAPOFFS 0
+      LENGTH 60
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 25.01741496598639 1 1 0 0
+      FADEOUT 1 2.08584663965354 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {794626FD-6F35-4417-8E08-2A084948D756}
+      IID 8
+      NAME "разговоры людей без гула.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C02293DD-5D31-4841-946A-1E382F95BA71}
+      <SOURCE MP3
+        FILE "E:\звуки сдв\ТАВЕРНА\разговоры людей без гула.mp3" 1
+      >
+    >
+  >
+  <TRACK {D9682B68-67BA-4838-A094-6E3D64B6258B}
+    NAME "средние разговоры людей"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 0.56085967561807 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {D9682B68-67BA-4838-A094-6E3D64B6258B}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 7
+      SNAPOFFS 0
+      LENGTH 2.19746875
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B5AB6DA4-FC15-4F65-A4DE-D99D951915AF}
+      IID 15
+      NAME "качается на стуле.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A41386D5-D0CD-460C-B3D7-4BDD283BF342}
+      <SOURCE MP3
+        FILE "E:\звуки сдв\ТАВЕРНА\качается на стуле.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 26
+      SNAPOFFS 0
+      LENGTH 1.87346875
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {55DEC1A5-B7B9-4147-9026-841F680D3BE8}
+      IID 10
+      NAME "рандом звук.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {878841B2-563F-4908-AAB9-C5F2D76C26F2}
+      <SOURCE MP3
+        FILE "E:\звуки сдв\ТАВЕРНА\рандом звук.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 38
+      SNAPOFFS 0
+      LENGTH 2.14310657596372
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {36387736-A981-4F51-BE85-9B30E42F914F}
+      IID 11
+      NAME "перемещение стула.mp3"
+      VOLPAN 0.213796 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {091DE453-E914-4316-A97B-0A943C4FEB58}
+      <SOURCE MP3
+        FILE "E:\звуки сдв\ТАВЕРНА\перемещение стула.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 90.5
+      SNAPOFFS 0
+      LENGTH 4.96433106575964
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {14125377-6781-431F-B47A-19E36385E6D6}
+      IID 18
+      NAME "перемещение стула 2.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DC719D65-6132-4046-9002-C4C730FF8F4B}
+      <SOURCE MP3
+        FILE "E:\звуки сдв\ТАВЕРНА\перемещение стула 2.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 114
+      SNAPOFFS 0
+      LENGTH 2.19746875
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {971964BE-BB7F-42D5-9116-88B69490A762}
+      IID 21
+      NAME "качается на стуле.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {11CC39B8-729D-42DB-9BE9-A634740ED7F1}
+      <SOURCE MP3
+        FILE "E:\звуки сдв\ТАВЕРНА\качается на стуле.mp3" 1
+      >
+    >
+  >
+  <TRACK {4283F2E7-B17A-47BB-82C6-74E506380001}
+    NAME "звук бутылки"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 0.30302350576016 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {4283F2E7-B17A-47BB-82C6-74E506380001}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 7.5
+      SNAPOFFS 0
+      LENGTH 10.37167800453515
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2EEFCB42-4214-42DE-8A0C-C7B84700DCCB}
+      IID 16
+      NAME "ложка в стакаене.mp3"
+      VOLPAN 0.749894 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {ACCAE3FC-F674-4BD8-8EB7-8A4CC11322C0}
+      <SOURCE MP3
+        FILE "E:\звуки сдв\ТАВЕРНА\ложка в стакаене.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 27.5
+      SNAPOFFS 0
+      LENGTH 0.68024943310658
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5C173C34-27E6-4469-9B12-4721BF7F1111}
+      IID 12
+      NAME "звук бутылки.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CB27B2D4-9EF8-4125-95A7-C220871B9ABF}
+      <SOURCE MP3
+        FILE "E:\звуки сдв\ТАВЕРНА\звук бутылки.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 46
+      SNAPOFFS 0
+      LENGTH 2.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BCAC8A46-C5AF-4276-87D8-D0677B7DD4AA}
+      IID 13
+      NAME "звуки льда в стакане.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5D33723E-37F3-4F49-89E8-CEB4D1B10F8A}
+      <SOURCE MP3
+        FILE "E:\звуки сдв\ТАВЕРНА\звуки льда в стакане.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 66
+      SNAPOFFS 0
+      LENGTH 3.4084126984127
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0973CEA0-9AA9-4298-A7A7-896819459CA9}
+      IID 14
+      NAME "звуки льда в стакане.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 2
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {84A47AFC-F38F-4D78-B121-3B57E779E854}
+      <SOURCE MP3
+        FILE "E:\звуки сдв\ТАВЕРНА\звуки льда в стакане.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 83
+      SNAPOFFS 0
+      LENGTH 8.5953514739229
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C9E4F635-2418-4FAF-89FB-680ED664B1A9}
+      IID 17
+      NAME "наливают воду в стаканы.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8C82D9E3-37C0-4254-9C16-9B57D5BBC427}
+      <SOURCE MP3
+        FILE "E:\звуки сдв\ТАВЕРНА\наливают воду в стаканы.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 120
+      SNAPOFFS 0
+      LENGTH 1.04546875
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {18392421-8626-4050-954E-BF0F87328EDE}
+      IID 19
+      NAME "лед в стаканы.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0A9D593D-3833-4303-BECA-CF4A452ACFC6}
+      <SOURCE MP3
+        FILE "E:\звуки сдв\ТАВЕРНА\лед в стаканы.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 137.5
+      SNAPOFFS 0
+      LENGTH 1.77739229024943
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9258474B-32FB-4A0C-907D-718A76D69E1B}
+      IID 20
+      NAME "стакан положили на стол.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F0C953AC-5F22-4B0B-BF4D-B94E5BB2224D}
+      <SOURCE MP3
+        FILE "E:\звуки сдв\ТАВЕРНА\стакан положили на стол.mp3" 1
+      >
+    >
+  >
+>

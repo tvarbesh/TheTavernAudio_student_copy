@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="DataFile" id="{35901bae-a86d-4dc1-844d-a2dd03a3eade}">
+		<property name="assetPath">
+			<value>READY/Media/peaks/369_metal-screech-wronk-squeal-scrape-short-heavy-fatigue-073.mp3.reapeaks</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{9d0c047f-294e-47ae-8ddf-86ca64e6b5ad}</destination>
+		</relationship>
+	</object>
+</objects>

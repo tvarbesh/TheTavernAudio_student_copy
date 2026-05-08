@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="DAWAsset" id="{d3a365cd-8b53-4487-af3d-5e4433e83d25}">
+		<property name="assetPath">
+			<value>READY/TAV.rpp.link/WOODS.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>142</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{9d0c047f-294e-47ae-8ddf-86ca64e6b5ad}</destination>
+		</relationship>
+		<relationship name="project">
+			<destination>{8d6c7d5e-e952-47b8-ae07-3e70e3bca5f6}</destination>
+		</relationship>
+	</object>
+</objects>

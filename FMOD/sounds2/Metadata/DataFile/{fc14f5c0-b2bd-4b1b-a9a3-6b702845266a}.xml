@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="DataFile" id="{fc14f5c0-b2bd-4b1b-a9a3-6b702845266a}">
+		<property name="assetPath">
+			<value>READY/FMOD/sounds/Metadata/SandboxFolder/{2dd075d1-6868-44a7-8184-e2653287cbef}.xml</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{9d0c047f-294e-47ae-8ddf-86ca64e6b5ad}</destination>
+		</relationship>
+	</object>
+</objects>

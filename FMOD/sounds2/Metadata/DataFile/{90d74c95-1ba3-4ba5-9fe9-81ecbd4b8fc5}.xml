@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="DataFile" id="{90d74c95-1ba3-4ba5-9fe9-81ecbd4b8fc5}">
+		<property name="assetPath">
+			<value>READY/Media/peaks/f354b6e421ddbee.mp3.reapeaks</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{9d0c047f-294e-47ae-8ddf-86ca64e6b5ad}</destination>
+		</relationship>
+	</object>
+</objects>

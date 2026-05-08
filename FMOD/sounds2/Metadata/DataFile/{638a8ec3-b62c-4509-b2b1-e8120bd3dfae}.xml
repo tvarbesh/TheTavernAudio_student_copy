@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="DataFile" id="{638a8ec3-b62c-4509-b2b1-e8120bd3dfae}">
+		<property name="assetPath">
+			<value>READY/Backups/TAV-2026-05-05_140452.rpp-bak</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{9d0c047f-294e-47ae-8ddf-86ca64e6b5ad}</destination>
+		</relationship>
+	</object>
+</objects>

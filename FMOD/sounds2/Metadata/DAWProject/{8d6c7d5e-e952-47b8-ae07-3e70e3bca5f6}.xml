@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="DAWProject" id="{8d6c7d5e-e952-47b8-ae07-3e70e3bca5f6}">
+		<property name="assetPath">
+			<value>READY/TAV.rpp.link/</value>
+		</property>
+		<property name="dawProjectPath">
+			<value>E:/CDV sounds from home/READY/TAV.rpp</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{9d0c047f-294e-47ae-8ddf-86ca64e6b5ad}</destination>
+		</relationship>
+	</object>
+</objects>
