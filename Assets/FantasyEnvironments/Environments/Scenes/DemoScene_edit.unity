@@ -2356,6 +2356,7 @@ GameObject:
   - component: {fileID: 613997993}
   - component: {fileID: 613997990}
   - component: {fileID: 613997989}
+  - component: {fileID: 613997994}
   m_Layer: 6
   m_Name: Player
   m_TagString: Player
@@ -2527,6 +2528,26 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 112
   m_CollisionDetection: 0
+--- !u!114 &613997994
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 613997984}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f7d95e26b5cbbe94f93658dcf4aa33cd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  snapshotActivated: 0
+  outsideSnapshot:
+    Guid:
+      Data1: -1334748514
+      Data2: 1257359718
+      Data3: -1550428762
+      Data4: 1362186327
+    Path: snapshot:/Outside_snapshot
 --- !u!1 &688602384
 GameObject:
   m_ObjectHideFlags: 0
@@ -3623,7 +3644,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &1067649709
 MonoBehaviour:
   m_ObjectHideFlags: 0
