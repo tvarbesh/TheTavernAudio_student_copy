@@ -39,6 +39,9 @@
 		<property name="value">
 			<value>0</value>
 		</property>
+		<relationship name="modulators">
+			<destination>{20d1489b-5041-4abb-9d1c-9523fb69b2c7}</destination>
+		</relationship>
 		<relationship name="automatableObject">
 			<destination>{61dc47fc-d8d5-46de-a869-1885d307f1df}</destination>
 		</relationship>
@@ -63,5 +66,34 @@
 		<relationship name="mixerStrip">
 			<destination>{e1649de9-21b7-43fe-b5a9-fdb6afdd54cf}</destination>
 		</relationship>
+	</object>
+	<object class="ADSRModulator" id="{20d1489b-5041-4abb-9d1c-9523fb69b2c7}">
+		<property name="nameOfPropertyBeingModulated">
+			<value>value</value>
+		</property>
+		<property name="initialValue">
+			<value>-80</value>
+		</property>
+		<property name="attackTime">
+			<value>480</value>
+		</property>
+		<property name="attackShape">
+			<value>0.237310991</value>
+		</property>
+		<property name="peakValue">
+			<value>-0.577777863</value>
+		</property>
+		<property name="decayTime">
+			<value>60000</value>
+		</property>
+		<property name="releaseTime">
+			<value>460</value>
+		</property>
+		<property name="releaseShape">
+			<value>-0.197351336</value>
+		</property>
+		<property name="finalValue">
+			<value>-80</value>
+		</property>
 	</object>
 </objects>

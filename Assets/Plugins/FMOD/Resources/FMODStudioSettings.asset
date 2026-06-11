@@ -530,7 +530,7 @@ MonoBehaviour:
   sourceBankPath: FMOD/sounds2/Build
   sourceBankPathUnformatted: 
   BankRefreshCooldown: 1
-  ShowBankRefreshWindow: 1
+  ShowBankRefreshWindow: 0
   AutomaticEventLoading: 1
   BankLoadType: 0
   AutomaticSampleLoading: 0
@@ -565,7 +565,7 @@ MonoBehaviour:
   SharedLibraryTimeSinceStart: 0
   CurrentVersion: 131859
   HideSetupWizard: 0
-  LastEventReferenceScanVersion: 131617
+  LastEventReferenceScanVersion: 131859
   Platforms:
   - {fileID: -7113343091406021913}
   - {fileID: -7089121652980687421}
