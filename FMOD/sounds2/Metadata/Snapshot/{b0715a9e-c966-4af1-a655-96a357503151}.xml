@@ -80,9 +80,6 @@
 		<property name="attackShape">
 			<value>0.237310991</value>
 		</property>
-		<property name="peakValue">
-			<value>-0.577777863</value>
-		</property>
 		<property name="decayTime">
 			<value>60000</value>
 		</property>

@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{57343a7a-77e4-402b-8a39-1804d4ab106e}">
 		<property name="name">
-			<value>TAVERN_AMBIENT</value>
+			<value>AMB_TAVERN</value>
 		</property>
 		<property name="outputFormat">
 			<value>2</value>
@@ -46,6 +46,9 @@
 		</relationship>
 	</object>
 	<object class="MixerInput" id="{b67a778e-555d-4595-b440-7db6e15a3b39}">
+		<relationship name="masters">
+			<destination>{b91055d0-dd96-47a9-b647-ef1aa57c86f9}</destination>
+		</relationship>
 		<relationship name="effectChain">
 			<destination>{f87b8bc2-0fdf-47ae-addd-1f37240ffc1a}</destination>
 		</relationship>
@@ -53,7 +56,7 @@
 			<destination>{96a0c3c9-3e2f-4467-9c86-b8ba55da2e18}</destination>
 		</relationship>
 		<relationship name="output">
-			<destination>{ed96191f-5439-4cfa-91b6-369da3ecb7dd}</destination>
+			<destination>{e1649de9-21b7-43fe-b5a9-fdb6afdd54cf}</destination>
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{64e884c0-ab32-4460-9c74-72c9a1a1f1ef}" />

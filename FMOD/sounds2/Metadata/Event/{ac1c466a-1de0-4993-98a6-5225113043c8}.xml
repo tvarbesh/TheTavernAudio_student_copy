@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{ac1c466a-1de0-4993-98a6-5225113043c8}">
 		<property name="name">
-			<value>TAVERN_MUSIC</value>
+			<value>MUSIC_TAVERN</value>
 		</property>
 		<property name="outputFormat">
 			<value>2</value>
@@ -52,6 +52,9 @@
 		</relationship>
 	</object>
 	<object class="MixerInput" id="{5ae83e8d-9f67-422a-b1bb-a03c069b49fc}">
+		<relationship name="masters">
+			<destination>{9916f548-5b56-4fa0-8135-6153beacfc4f}</destination>
+		</relationship>
 		<relationship name="effectChain">
 			<destination>{e82866fd-57e2-44d5-8197-2b9a38fe0d33}</destination>
 		</relationship>
