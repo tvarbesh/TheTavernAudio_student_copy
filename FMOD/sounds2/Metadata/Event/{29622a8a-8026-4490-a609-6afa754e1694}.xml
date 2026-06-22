@@ -62,7 +62,7 @@
 			<destination>{98582742-289c-40c1-95c5-7999b6edb46e}</destination>
 		</relationship>
 		<relationship name="output">
-			<destination>{ed96191f-5439-4cfa-91b6-369da3ecb7dd}</destination>
+			<destination>{034dff5b-a9b6-4932-9f32-d03fd76fe307}</destination>
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{963c854c-5894-442e-8434-105d478e155b}" />
@@ -121,6 +121,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{b8a2c057-e61c-4f55-ba9c-573416057670}">
+		<property name="volume">
+			<value>-3.5</value>
+		</property>
 		<property name="name">
 			<value>Mouse</value>
 		</property>

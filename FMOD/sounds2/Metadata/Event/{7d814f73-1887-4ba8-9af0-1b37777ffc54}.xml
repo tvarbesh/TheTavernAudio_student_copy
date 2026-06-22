@@ -155,6 +155,7 @@
 		</property>
 		<relationship name="modulators">
 			<destination>{1d4b50a3-e1e0-4f29-ae14-be97b1abe2e4}</destination>
+			<destination>{7258e637-680b-49e8-8fd2-2139c104800c}</destination>
 		</relationship>
 		<relationship name="triggerConditions">
 			<destination>{95fbadea-ed12-4940-96b0-b8490e47091c}</destination>
@@ -186,6 +187,10 @@
 		<property name="length">
 			<value>0.76660416666666664</value>
 		</property>
+		<relationship name="modulators">
+			<destination>{4fb086ab-9edb-4e94-9d7e-c51d8d0a0b32}</destination>
+			<destination>{083eceb7-078e-43ac-95c0-9169e42d7cda}</destination>
+		</relationship>
 		<relationship name="triggerConditions">
 			<destination>{4edd4198-d135-4aea-9461-909abb8f7f1e}</destination>
 		</relationship>
@@ -200,7 +205,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{c9059b76-e937-41e7-9c93-d066a92a817c}">
 		<property name="volume">
-			<value>-13</value>
+			<value>-10.5</value>
 		</property>
 		<property name="name">
 			<value>WOOD SQUEAK</value>
@@ -224,6 +229,7 @@
 		</relationship>
 		<relationship name="modulators">
 			<destination>{ea0d71d5-c4a1-4118-857d-99b7f78f7760}</destination>
+			<destination>{4e0214ad-48ba-4bcf-a9df-be6cc947f46f}</destination>
 		</relationship>
 		<relationship name="triggerConditions">
 			<destination>{301026ba-d241-4444-b1ff-669f0215cd0a}</destination>
@@ -257,6 +263,7 @@
 		</property>
 		<relationship name="modulators">
 			<destination>{9597b799-06cb-4f53-9761-524d18eba977}</destination>
+			<destination>{41a1bbc0-ab84-4c4c-9928-453afd29baa6}</destination>
 		</relationship>
 		<relationship name="triggerConditions">
 			<destination>{d1bd4f6c-623f-412c-b82f-8995d209c641}</destination>
@@ -290,6 +297,7 @@
 		</property>
 		<relationship name="modulators">
 			<destination>{d93adc5b-6bc4-4c77-8303-aebdd04d59f9}</destination>
+			<destination>{b4364989-7af7-4fd8-9065-1b66d810cdfa}</destination>
 		</relationship>
 		<relationship name="triggerConditions">
 			<destination>{5b2fc843-e049-45b5-b1e2-490db25b0481}</destination>
@@ -371,6 +379,14 @@
 			<value>1.04166675</value>
 		</property>
 	</object>
+	<object class="RandomizerModulator" id="{7258e637-680b-49e8-8fd2-2139c104800c}">
+		<property name="nameOfPropertyBeingModulated">
+			<value>volume</value>
+		</property>
+		<property name="amount">
+			<value>1.5</value>
+		</property>
+	</object>
 	<object class="ParameterCondition" id="{95fbadea-ed12-4940-96b0-b8490e47091c}">
 		<property name="minimum">
 			<value>0</value>
@@ -418,6 +434,22 @@
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{f641c6aa-1a38-4dbf-a281-f5570e4759b5}" />
+	<object class="RandomizerModulator" id="{4fb086ab-9edb-4e94-9d7e-c51d8d0a0b32}">
+		<property name="nameOfPropertyBeingModulated">
+			<value>volume</value>
+		</property>
+		<property name="amount">
+			<value>19</value>
+		</property>
+	</object>
+	<object class="RandomizerModulator" id="{083eceb7-078e-43ac-95c0-9169e42d7cda}">
+		<property name="nameOfPropertyBeingModulated">
+			<value>pitch</value>
+		</property>
+		<property name="amount">
+			<value>5.5</value>
+		</property>
+	</object>
 	<object class="ParameterCondition" id="{4edd4198-d135-4aea-9461-909abb8f7f1e}">
 		<property name="minimum">
 			<value>0</value>
@@ -478,6 +510,14 @@
 			<value>1.04166675</value>
 		</property>
 	</object>
+	<object class="RandomizerModulator" id="{4e0214ad-48ba-4bcf-a9df-be6cc947f46f}">
+		<property name="nameOfPropertyBeingModulated">
+			<value>volume</value>
+		</property>
+		<property name="amount">
+			<value>1.5</value>
+		</property>
+	</object>
 	<object class="ParameterCondition" id="{301026ba-d241-4444-b1ff-669f0215cd0a}">
 		<property name="minimum">
 			<value>1</value>
@@ -533,6 +573,14 @@
 			<value>1.04166675</value>
 		</property>
 	</object>
+	<object class="RandomizerModulator" id="{41a1bbc0-ab84-4c4c-9928-453afd29baa6}">
+		<property name="nameOfPropertyBeingModulated">
+			<value>volume</value>
+		</property>
+		<property name="amount">
+			<value>1.5</value>
+		</property>
+	</object>
 	<object class="ParameterCondition" id="{d1bd4f6c-623f-412c-b82f-8995d209c641}">
 		<property name="minimum">
 			<value>2</value>
@@ -586,6 +634,14 @@
 		</property>
 		<property name="amount">
 			<value>1.04166675</value>
+		</property>
+	</object>
+	<object class="RandomizerModulator" id="{b4364989-7af7-4fd8-9065-1b66d810cdfa}">
+		<property name="nameOfPropertyBeingModulated">
+			<value>volume</value>
+		</property>
+		<property name="amount">
+			<value>1.5</value>
 		</property>
 	</object>
 	<object class="ParameterCondition" id="{5b2fc843-e049-45b5-b1e2-490db25b0481}">

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="MixerGroup" id="{e9423d89-d62f-4062-b406-23b08a5126b8}">
+		<property name="name">
+			<value>FireplaceFloorTrigger</value>
+		</property>
+		<relationship name="effectChain">
+			<destination>{9df1193c-9147-4bd5-9a32-2b6ca2950ba8}</destination>
+		</relationship>
+		<relationship name="panner">
+			<destination>{773c629b-a11f-41fc-acae-095b0205c77f}</destination>
+		</relationship>
+		<relationship name="output">
+			<destination>{ed96191f-5439-4cfa-91b6-369da3ecb7dd}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusEffectChain" id="{9df1193c-9147-4bd5-9a32-2b6ca2950ba8}">
+		<relationship name="effects">
+			<destination>{6525bac6-a10c-4d35-b616-48ae0a961b43}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusPanner" id="{773c629b-a11f-41fc-acae-095b0205c77f}" />
+	<object class="MixerBusFader" id="{6525bac6-a10c-4d35-b616-48ae0a961b43}" />
+</objects>

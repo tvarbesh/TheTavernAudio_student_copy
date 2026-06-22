@@ -10,13 +10,13 @@ public class Footsteps : MonoBehaviour
     private FMOD.Studio.EventInstance footstepsSoundInstance;
     private FMOD.Studio.EventInstance jumpSoundInstance;
     private FMOD.Studio.EventInstance landSoundInstance;
+    private FMOD.Studio.EventInstance runSoundInstance; // строчка под run
 
     // Publiczne referencje do zdarzeń FMOD.
     public EventReference footstepsEvent;
     public EventReference jumpEvent;
     public EventReference landEvent;
-
-    // Usunięto: private Dictionary<string, string> surfaceTags;
+    public EventReference runEvent; // добавляет окно под бег 
 
     private float lastFootstepTime = 0f;
     private float distToGround;
@@ -29,8 +29,6 @@ public class Footsteps : MonoBehaviour
     void Start()
     {
         distToGround = GetComponent<Collider>().bounds.extents.y;
-        
-        // Usunięto: Inicjalizację słownika.
     }
 
     void Update()
@@ -65,7 +63,7 @@ public class Footsteps : MonoBehaviour
             if (Time.time - lastFootstepTime > footstepInterval)
             {
                 lastFootstepTime = Time.time;
-                PlayFootsteps();
+                PlayFootsteps(isRunning); // передает статус бега
             }
         }
     }
@@ -73,13 +71,13 @@ public class Footsteps : MonoBehaviour
     /// <summary>
     /// Odtwarza dźwięk kroków w zależności od powierzchni.
     /// </summary>
-    private void PlayFootsteps()
+    private void PlayFootsteps(bool isRunning) // передает статус бега
     {
         RaycastHit hit;
         if (Physics.Raycast(transform.position, Vector3.down, out hit, distToGround + 0.5f))
         {
             string surfaceTag = hit.collider.tag;
-            PlaySurfaceSound(footstepsSoundInstance, footstepsEvent, surfaceTag);
+            PlaySurfaceSound(footstepsSoundInstance, footstepsEvent, surfaceTag, isRunning); // изменено, добавила бег
         }
     }
 
@@ -129,25 +127,20 @@ public class Footsteps : MonoBehaviour
 
     /// <summary>
     /// Ogólna metoda do odtwarzania dźwięku na podstawie tagu powierzchni.
-    /// ZASTĘPUJE SŁOWNIK instrukcją SWITCH.
     /// </summary>
-    /// <param name="soundInstance">Instancja dźwięku FMOD.</param>
-    /// <param name="eventRef">Referencja do zdarzenia FMOD.</param>
-    /// <param name="surfaceTag">Tag powierzchni, na której znajduje się gracz.</param>
-    private void PlaySurfaceSound(FMOD.Studio.EventInstance soundInstance, EventReference eventRef, string surfaceTag)
+    private void PlaySurfaceSound(FMOD.Studio.EventInstance soundInstance, EventReference eventRef, string surfaceTag, bool isRunning = false) // учитываю бег
     {
-        // Zmienna przechowująca parametr FMOD. Domyślnie ustawiona na null/pusty string.
-        string surfaceParameter = null; 
+        string surfaceParameter = null;
 
         // Instrukcja SWITCH do mapowania Tagu na Parametr FMOD.
         switch (surfaceTag)
         {
             case "Stone":
             case "Inside_stone":
-            case "Outside": // "Outside" również używa parametru "Stone"
+            case "Outside":
                 surfaceParameter = "Rock";
                 break;
-            
+
             case "Wood":
             case "Inside_wood":
                 surfaceParameter = "Wood";
@@ -166,13 +159,19 @@ public class Footsteps : MonoBehaviour
                 break;
         }
 
-        // Jeśli znaleziono pasujący parametr, odtwórz dźwięk.
         if (surfaceParameter != null)
         {
-            soundInstance = RuntimeManager.CreateInstance(eventRef);
+            // логика выбора ивента. фух бля надеюсь сработает, погнали йобаны в рот!
+            EventReference finalEventToPlay = eventRef;
+
+            if (isRunning && (surfaceParameter == "Rock" || surfaceParameter == "Wood"))
+            {
+                finalEventToPlay = runEvent;
+            }
+
+            soundInstance = RuntimeManager.CreateInstance(finalEventToPlay);
             soundInstance.set3DAttributes(RuntimeUtils.To3DAttributes(gameObject.transform));
-            // Ustawia parametr FMOD na podstawie ustalonej wartości.
-            soundInstance.setParameterByNameWithLabel("Ground", surfaceParameter); 
+            soundInstance.setParameterByNameWithLabel("Ground", surfaceParameter);
             soundInstance.start();
             soundInstance.release();
         }
@@ -184,5 +183,5 @@ public class Footsteps : MonoBehaviour
     bool IsGrounded()
     {
         return Physics.Raycast(transform.position, Vector3.down, distToGround + 0.5f);
-    }  
+    }
 }

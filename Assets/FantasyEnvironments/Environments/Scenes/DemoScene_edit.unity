@@ -240,7 +240,7 @@ GameObject:
   - component: {fileID: 32142852}
   - component: {fileID: 32142851}
   - component: {fileID: 32142850}
-  - component: {fileID: 32142849}
+  - component: {fileID: 32142854}
   m_Layer: 0
   m_Name: tav-fireplace
   m_TagString: Untagged
@@ -248,37 +248,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &32142849
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 32142848}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9a6610d2e704f1648819acc8d7460285, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  CollisionTag: 
-  EventReference:
-    Guid:
-      Data1: 1261009713
-      Data2: 1158555752
-      Data3: 88923534
-      Data4: 1140848731
-    Path: event:/FIREPLACE
-  Event: 
-  EventPlayTrigger: 1
-  EventStopTrigger: 0
-  AllowFadeout: 1
-  TriggerOnce: 0
-  Preload: 0
-  NonRigidbodyVelocity: 0
-  Params: []
-  OverrideAttenuation: 1
-  OverrideMinDistance: 1.37
-  OverrideMaxDistance: 8.9
 --- !u!65 &32142850
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -368,6 +337,28 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &32142854
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 32142848}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e6834ba9f3e33b840a3729048ee36ed5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  fireplaceEvent:
+    Guid:
+      Data1: 1261009713
+      Data2: 1158555752
+      Data3: 88923534
+      Data4: 1140848731
+    Path: event:/FIREPLACE
+  player: {fileID: 613997988}
+  floorThresholdY: 11.4
+  fadeSpeed: 2
 --- !u!1 &129069795
 GameObject:
   m_ObjectHideFlags: 0
@@ -2696,6 +2687,13 @@ MonoBehaviour:
       Data3: -903620438
       Data4: -1844357589
     Path: event:/LAND
+  runEvent:
+    Guid:
+      Data1: 1003423622
+      Data2: 1318693872
+      Data3: 324518797
+      Data4: -90311363
+    Path: event:/FOOTSTEPS_RUN
   isGrounded: 1
   isJumping: 0
 --- !u!1 &688602384
@@ -3539,6 +3537,7 @@ GameObject:
   - component: {fileID: 1024991591}
   - component: {fileID: 1024991590}
   - component: {fileID: 1024991589}
+  - component: {fileID: 1024991594}
   m_Layer: 0
   m_Name: tav_mouse
   m_TagString: Untagged
@@ -3666,6 +3665,35 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1024991594
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1024991588}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8aab65c05a7b5446b859b4b18252c59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  squeakEvent:
+    Guid:
+      Data1: 694299274
+      Data2: 1150320678
+      Data3: -93714010
+      Data4: -1810477451
+    Path: event:/MOUSE
+  mouseRoomSnapshot:
+    Guid:
+      Data1: -200763625
+      Data2: 1188140650
+      Data3: -67398994
+      Data4: 1677357407
+    Path: snapshot:/MouseSqueak_snapshot
+  player: {fileID: 613997988}
+  minDelay: 2
+  maxDelay: 6
 --- !u!1 &1039452379
 GameObject:
   m_ObjectHideFlags: 0

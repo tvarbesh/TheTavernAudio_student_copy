@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="MixerGroup" id="{034dff5b-a9b6-4932-9f32-d03fd76fe307}">
+		<property name="volume">
+			<value>-80</value>
+		</property>
+		<property name="name">
+			<value>MouseSqueak</value>
+		</property>
+		<relationship name="effectChain">
+			<destination>{1a0389cf-1b31-41d6-9b08-71bd94ba5301}</destination>
+		</relationship>
+		<relationship name="panner">
+			<destination>{e54c67b4-702f-4580-a41a-e8b1238c0453}</destination>
+		</relationship>
+		<relationship name="output">
+			<destination>{ed96191f-5439-4cfa-91b6-369da3ecb7dd}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusEffectChain" id="{1a0389cf-1b31-41d6-9b08-71bd94ba5301}">
+		<relationship name="effects">
+			<destination>{9c2d0bb9-eb28-4f8e-8592-f3c3b706c764}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusPanner" id="{e54c67b4-702f-4580-a41a-e8b1238c0453}" />
+	<object class="MixerBusFader" id="{9c2d0bb9-eb28-4f8e-8592-f3c3b706c764}" />
+</objects>

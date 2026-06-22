@@ -153,6 +153,10 @@
 		<property name="length">
 			<value>0.28449999999999998</value>
 		</property>
+		<relationship name="modulators">
+			<destination>{8865a2df-33d8-47bb-8a10-7b23d7a7c5d0}</destination>
+			<destination>{2dff5d38-2588-4525-97e9-6b3d969413a8}</destination>
+		</relationship>
 		<relationship name="triggerConditions">
 			<destination>{384f707d-fc3c-4e9d-b8e3-fbe6518c1322}</destination>
 		</relationship>
@@ -166,6 +170,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{66f37b41-62ca-42f1-be3b-f75413fe3ea3}">
+		<property name="volume">
+			<value>7.5</value>
+		</property>
 		<property name="name">
 			<value>WOOD</value>
 		</property>
@@ -216,6 +223,10 @@
 		<property name="length">
 			<value>0.29543750000000002</value>
 		</property>
+		<relationship name="modulators">
+			<destination>{7d45ac0d-d2e6-442a-b202-1a19906becbe}</destination>
+			<destination>{427c06fe-f2cd-4e64-81e5-135d822482b9}</destination>
+		</relationship>
 		<relationship name="triggerConditions">
 			<destination>{ed430128-f36f-43e6-895a-0def42732ade}</destination>
 		</relationship>
@@ -229,6 +240,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{0cf4889f-0f82-4008-8601-7c6723594a64}">
+		<property name="volume">
+			<value>8</value>
+		</property>
 		<property name="name">
 			<value>ROCK</value>
 		</property>
@@ -348,6 +362,22 @@
 	</object>
 	<object class="MixerBusPanner" id="{eaa1c62b-e15e-441d-965a-a77217d5654c}" />
 	<object class="MixerBusFader" id="{36691056-86e9-416e-a3c2-7c19772d673d}" />
+	<object class="RandomizerModulator" id="{8865a2df-33d8-47bb-8a10-7b23d7a7c5d0}">
+		<property name="nameOfPropertyBeingModulated">
+			<value>pitch</value>
+		</property>
+		<property name="amount">
+			<value>3.5</value>
+		</property>
+	</object>
+	<object class="RandomizerModulator" id="{2dff5d38-2588-4525-97e9-6b3d969413a8}">
+		<property name="nameOfPropertyBeingModulated">
+			<value>volume</value>
+		</property>
+		<property name="amount">
+			<value>2.5</value>
+		</property>
+	</object>
 	<object class="ParameterCondition" id="{384f707d-fc3c-4e9d-b8e3-fbe6518c1322}">
 		<property name="minimum">
 			<value>0</value>
@@ -442,6 +472,22 @@
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{a2a1e7bc-6679-46c5-b286-0e4f62234f3e}" />
+	<object class="RandomizerModulator" id="{7d45ac0d-d2e6-442a-b202-1a19906becbe}">
+		<property name="nameOfPropertyBeingModulated">
+			<value>pitch</value>
+		</property>
+		<property name="amount">
+			<value>4</value>
+		</property>
+	</object>
+	<object class="RandomizerModulator" id="{427c06fe-f2cd-4e64-81e5-135d822482b9}">
+		<property name="nameOfPropertyBeingModulated">
+			<value>volume</value>
+		</property>
+		<property name="amount">
+			<value>2.5</value>
+		</property>
+	</object>
 	<object class="ParameterCondition" id="{ed430128-f36f-43e6-895a-0def42732ade}">
 		<property name="minimum">
 			<value>1</value>
