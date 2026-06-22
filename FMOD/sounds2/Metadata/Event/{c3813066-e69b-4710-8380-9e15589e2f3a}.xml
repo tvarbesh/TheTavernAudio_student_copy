@@ -159,6 +159,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{34dd13d6-f4ef-44bb-8e3d-8d727d066c4d}">
+		<property name="volume">
+			<value>3.5</value>
+		</property>
 		<property name="name">
 			<value>Wood</value>
 		</property>
@@ -192,6 +195,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{7c0083b2-7ce4-422f-af05-dcf69567df45}">
+		<property name="volume">
+			<value>-8</value>
+		</property>
 		<property name="name">
 			<value>Rock</value>
 		</property>
@@ -258,6 +264,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{14b2afa0-064a-4b4d-b0fe-6b634f0e706d}">
+		<property name="volume">
+			<value>6.5</value>
+		</property>
 		<property name="name">
 			<value>Stairs</value>
 		</property>
