@@ -32,7 +32,8 @@ public class VCA : MonoBehaviour
         outsideVCA = FMODUnity.RuntimeManager.GetVCA("vca:/AMB_forest");
 
         // Ustawia początkową głośność.
-        globalVCA.setVolume(DecibelToLinear(-100));
+        float volume = globalMuteActive ? DecibelToLinear(-100) : DecibelToLinear(0);
+        globalVCA.setVolume(volume);
     }
 
     void Update()
