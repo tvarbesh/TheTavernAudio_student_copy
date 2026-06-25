@@ -15,7 +15,7 @@ public class VCA : MonoBehaviour
 
     // Flagi stanu wyciszenia.
     [SerializeField]
-    private bool globalMuteActive = true;
+    private bool globalMuteActive = false;
     [SerializeField]
     private bool musicMuteActive = false;
     [SerializeField]

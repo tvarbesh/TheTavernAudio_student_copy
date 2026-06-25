@@ -4,6 +4,9 @@
 		<property name="name">
 			<value>AMB_forest</value>
 		</property>
+		<relationship name="masters">
+			<destination>{eb51d98e-5fdf-4790-ba05-faa7d6abc915}</destination>
+		</relationship>
 		<relationship name="mixer">
 			<destination>{42be1503-491e-4f66-8093-1d809a215b2e}</destination>
 		</relationship>
