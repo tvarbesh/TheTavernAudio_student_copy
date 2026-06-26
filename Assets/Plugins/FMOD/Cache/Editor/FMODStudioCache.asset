@@ -137,6 +137,33 @@ MonoBehaviour:
   MinDistance: 0
   MaxDistance: 0
   Length: 0
+--- !u!114 &-3811361358217402297
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: snapshot:/Door_Inside
+  m_EditorClassIdentifier: 
+  Path: snapshot:/Door_Inside
+  Guid:
+    Data1: -1865192845
+    Data2: 1305710645
+    Data3: -1671667312
+    Data4: 1973092917
+  Banks:
+  - {fileID: 5801722063858923868}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 0
 --- !u!114 &-3364907496996640684
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -248,13 +275,14 @@ MonoBehaviour:
   - {fileID: -4574259091838671636}
   - {fileID: 2541052068786558801}
   - {fileID: -3109001029539080056}
+  - {fileID: -3811361358217402297}
   EditorParameters: []
   MasterBanks:
   - {fileID: 5801722063858923868}
   StringsBanks:
   - {fileID: 251800457263342556}
   cacheVersion: 131859
-  cacheTime: 639180095750598375
+  cacheTime: 639180655198665554
   SerializableEventsDict:
   - key: event:/LAND
     index: 0
@@ -280,6 +308,8 @@ MonoBehaviour:
     index: 10
   - key: snapshot:/MouseSqueak_snapshot
     index: 11
+  - key: snapshot:/Door_Inside
+    index: 12
 --- !u!114 &251800457263342556
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -295,10 +325,10 @@ MonoBehaviour:
   Path: FMOD/sounds2/Build/Desktop/Master.strings.bank
   Name: Master.strings
   StudioPath: bank:/Master.strings
-  lastModified: 639180095750598375
+  lastModified: 639180655198665554
   FileSizes:
   - Name: Desktop
-    Value: 1742
+    Value: 1820
   Exists: 1
 --- !u!114 &675926025329660011
 MonoBehaviour:
@@ -511,10 +541,10 @@ MonoBehaviour:
   Path: FMOD/sounds2/Build/Desktop/Master.bank
   Name: Master
   StudioPath: bank:/Master
-  lastModified: 639180095750558389
+  lastModified: 639180655198655524
   FileSizes:
   - Name: Desktop
-    Value: 7633152
+    Value: 7634176
   Exists: 1
 --- !u!114 &7619213102413879629
 MonoBehaviour:
